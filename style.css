@@ -1,0 +1,14 @@
+body{
+    background-image: url("music.png");
+}
+h1{
+    font-family:cursive;
+    color:black;
+    font-size: xx-large;
+    background-color: gray;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: floralwhite;
+    font-size:x-large;
+}
